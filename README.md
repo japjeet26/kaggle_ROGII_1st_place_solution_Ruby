@@ -6,6 +6,9 @@ commands from the repository root, the directory containing this README.
 
 For the original competition context and the first-place solution details, see
 the [Kaggle technical write-up](https://www.kaggle.com/competitions/rogii-wellbore-geology-prediction/writeups/1st-place-solution).
+A Feynman-style lecture on the winning recipe, with line-level pointers into
+the archived snapshots, is in
+[docs/feynman_lecture_winning_recipe.md](docs/feynman_lecture_winning_recipe.md).
 
 ## What is bundled
 
